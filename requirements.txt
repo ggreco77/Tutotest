@@ -1,0 +1,9 @@
+astropy
+astroquery
+ipyaladin
+ligo.skymap
+numpy
+matplotlib
+ipywidgets
+widgetsnbextension
+mocpy
