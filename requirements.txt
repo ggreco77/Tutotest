@@ -4,6 +4,8 @@ ipyaladin
 ligo.skymap
 numpy
 matplotlib
-ipywidgets
-widgetsnbextension
 mocpy
+ipywidgets
+pygcn
+widgetsnbextension
+
