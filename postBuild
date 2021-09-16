@@ -1,2 +1,5 @@
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable --py --sys-prefix ipyaladin
+git clone https://github.com/cds-astro/ipyaladin
+cd ipyaladin/js
+jupyter labextension install
